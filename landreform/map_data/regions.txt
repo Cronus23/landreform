@@ -516,18 +516,7 @@ transalpine_gaul_region = {		#7 areas
 	}
 }
 
-gallaecia_region = {				#7 areas
-	areas = {
-		cantabria_area
-		asturia_septentrionalis_area
-		asturia_meridionalis_area
-		vaccaeia_septentrionalis_area
-		callaecia_septentrionalis_area
-		callaecia_meridionalis_area
-		vaccaeia_meridionalis_area
-		
-	}
-}
+
 
 caledonia_region = {		#7 areas
 	areas = {
@@ -704,17 +693,24 @@ illyria_region = {			#7 regions
 }
 	
 
-magna_graecia_region = {		#8 areas
+magna_graecia_region = {		#5 areas
 	areas = {
 		neapolis_area
 		cannae_area
 		tarentum_area
 		heraclea_area
 		croton_area
+
+	}
+}
+
+sicily_region = { 	#3 areas
+	areas = {	
 		east_sicily_area
 		west_sicily_area
 		syracuse_area
 	}
+
 }
 
 belgica_region = {	#9 areas
@@ -793,18 +789,6 @@ germania_superior_region = {	#7 areas
 	}
 }
 
-contestania_region = {		#8 areas
-	areas = {
-		contestania_meridionalis_area
-		contestania_septentrionalis_area
-		edetania_area
-		balearides_area
-		mastiania_area
-		celtiberia_meridionalis_area
-		lobetania_area
-		carpetania_area
-	}
-}
 
 
 armorica_region = {			#7 areas
@@ -855,6 +839,21 @@ tarraconensis_region = {	#9 areas
 		autrigonia_area
 		celtiberia_septentrionalis_area
 		celtiberia_centralis_area
+		contestania_meridionalis_area
+		contestania_septentrionalis_area
+		edetania_area
+		balearides_area
+		mastiania_area
+		celtiberia_meridionalis_area
+		lobetania_area
+		carpetania_area
+		cantabria_area
+		asturia_septentrionalis_area
+		asturia_meridionalis_area
+		vaccaeia_septentrionalis_area
+		callaecia_septentrionalis_area
+		callaecia_meridionalis_area
+		vaccaeia_meridionalis_area
 	}
 }
 

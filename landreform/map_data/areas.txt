@@ -81,7 +81,7 @@ east_sicily_area = { # 10
 }
 
 syracuse_area = { # 10
-    provinces = { 83 84 85 86 87 88 101 1471 7837 7840 }
+    provinces = { 83 84 85 86 87 88 101 1471 7837 7840 } 
 }
 
 west_sicily_area = { # 11
