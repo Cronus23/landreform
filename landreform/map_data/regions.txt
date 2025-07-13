@@ -1,6 +1,6 @@
 ﻿central_italy_region = {		#9 areas
 	areas = {
-		roma_area
+		
 		south_etruria_area
 		north_etruria_area
 		aternum_area
@@ -10,8 +10,13 @@
 		sardinia_septentrionalis
 		sardinia_meridionalis
 	}
+}
+
+spqr_region = { #1
+	areas = {
+		roma_area
+	} 
 	
-	# color = hsv { 0.5 1.0 1.0 }  # or named color, or rgb
 }
 
 taurica_region = { #8
@@ -41,7 +46,7 @@ sarmatia_asiatica_region = {		#8 areas
 
 greece_region = {	#10 areas
 	areas = {
-		crete_area
+		
 		aegean_islands_area
 		achaea_area
 		epirus_area
@@ -51,6 +56,12 @@ greece_region = {	#10 areas
 		boeotia_area
 		arcadia_area
 		euboea_area
+	}
+}
+
+crete_region = { 	#1 area
+	areas = {
+	crete_area
 	}
 }
 
