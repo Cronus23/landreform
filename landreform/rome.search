@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Usage: ./search_token.sh TOKEN PATH
+
+TOKEN="$1"
+SEARCH_PATH="$2"
+
+if [[ -z "$TOKEN" || -z "$SEARCH_PATH" ]]; then
+  echo "Usage: $0 TOKEN PATH"
+  exit 1
+fi
+
+grep -r --color=always "$TOKEN" "$SEARCH_PATH"
+

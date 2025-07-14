@@ -6,9 +6,7 @@
 		aternum_area
 		ariminum_area
 		asculum_area
-		corsica_area
-		sardinia_septentrionalis
-		sardinia_meridionalis
+		
 	}
 }
 
@@ -18,6 +16,16 @@ spqr_region = { #1
 	} 
 	
 }
+
+corsica_sardinia_region = { #1
+	areas = {
+		corsica_area
+		sardinia_septentrionalis
+		sardinia_meridionalis
+	} 
+	
+}
+
 
 taurica_region = { #8
 	areas = {
