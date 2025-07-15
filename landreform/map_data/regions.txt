@@ -1,6 +1,5 @@
 ﻿central_italy_region = {		#9 areas
 	areas = {
-		
 		south_etruria_area
 		north_etruria_area
 		aternum_area
@@ -623,27 +622,28 @@ thrace_region = { #8 areas
 	}
 }
 
-moesia_region = { #3
+moesia_region = { #4
 	areas = {
 		dacia_mediterranea_area
 		moesia_prima_orientalis_area
 		moesia_prima_occidentalis_area
+		getia_orientalis_area
 	}
 }
 
 dacia_region = {				#11 areas
 	areas = {
 		apulensis_area
-		dacia_superioris_area
+		dacia_superioris_area 
 		porolissensis_area
 		porolissensis_inferioris_area
 		transcarpathia_orientalis_area
 		iazygia_minoris_area
 		iazygia_majoris_area
 		transcarpathia_centralis_area
-		getia_occidentalis_area
-		malvensis_area
-		dacia_inferioris_area
+		getia_occidentalis_area 
+		malvensis_area 
+		dacia_inferioris_area  
 	}
 }
 
@@ -718,7 +718,6 @@ magna_graecia_region = {		#5 areas
 		tarentum_area
 		heraclea_area
 		croton_area
-
 	}
 }
 
