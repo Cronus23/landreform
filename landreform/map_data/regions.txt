@@ -13,7 +13,7 @@
 spqr_region = { #1
 	areas = {
 		roma_area
-	} 
+	}
 	
 }
 
@@ -623,28 +623,27 @@ thrace_region = { #8 areas
 	}
 }
 
-moesia_region = { #8
+moesia_region = { #3
 	areas = {
-		getia_occidentalis_area
-		getia_orientalis_area
-		malvensis_area
-		dacia_inferioris_area
-		dacia_superioris_area
 		dacia_mediterranea_area
 		moesia_prima_orientalis_area
 		moesia_prima_occidentalis_area
 	}
 }
 
-dacia_region = {				#7 areas
+dacia_region = {				#11 areas
 	areas = {
 		apulensis_area
+		dacia_superioris_area
 		porolissensis_area
 		porolissensis_inferioris_area
 		transcarpathia_orientalis_area
 		iazygia_minoris_area
 		iazygia_majoris_area
 		transcarpathia_centralis_area
+		getia_occidentalis_area
+		malvensis_area
+		dacia_inferioris_area
 	}
 }
 
