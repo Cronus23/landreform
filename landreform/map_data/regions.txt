@@ -16,12 +16,12 @@ spqr_region = { #1
 	
 }
 
-corsica_sardinia_region = { #1
+corsica_sardinia_region = { #3
 	areas = {
 		corsica_area
 		sardinia_septentrionalis
 		sardinia_meridionalis
-	} 
+	}
 	
 }
 
@@ -622,19 +622,20 @@ thrace_region = { #8 areas
 	}
 }
 
-moesia_region = { #4
+moesia_region = { #6
 	areas = {
 		dacia_mediterranea_area
 		moesia_prima_orientalis_area
 		moesia_prima_occidentalis_area
 		getia_orientalis_area
+		dacia_inferioris_area  
+		dacia_superioris_area
 	}
 }
 
-dacia_region = {				#11 areas
+dacia_region = {				#9 areas
 	areas = {
 		apulensis_area
-		dacia_superioris_area 
 		porolissensis_area
 		porolissensis_inferioris_area
 		transcarpathia_orientalis_area
@@ -643,7 +644,6 @@ dacia_region = {				#11 areas
 		transcarpathia_centralis_area
 		getia_occidentalis_area 
 		malvensis_area 
-		dacia_inferioris_area  
 	}
 }
 

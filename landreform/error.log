@@ -1,2 +1,48 @@
-[12:00:50][dlc.cpp:336]: Invalid supported_version in  file: mod/ugc_2397963108.mod line: 6
-[12:00:50][dlc.cpp:336]: Invalid supported_version in  file: mod/ugc_2532715348.mod line: 10
+[07:27:01][dlc.cpp:336]: Invalid supported_version in  file: mod/ugc_2397963108.mod line: 6
+[07:27:01][dlc.cpp:336]: Invalid supported_version in  file: mod/ugc_2532715348.mod line: 10
+[07:27:11][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 85
+" in file: "common/modifiers/00_egypt_missions.txt" near line: 85
+[07:27:11][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 93
+" in file: "common/modifiers/00_egypt_missions.txt" near line: 93
+[07:27:11][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 108
+" in file: "common/modifiers/00_egypt_missions.txt" near line: 108
+[07:27:11][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 113
+" in file: "common/modifiers/00_egypt_missions.txt" near line: 113
+[07:27:11][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 134
+" in file: "common/modifiers/00_egypt_missions.txt" near line: 134
+[07:27:11][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 138
+" in file: "common/modifiers/00_egypt_missions.txt" near line: 138
+[07:27:11][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 182
+" in file: "common/modifiers/00_egypt_missions.txt" near line: 182
+[07:27:11][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 194
+" in file: "common/modifiers/00_egypt_missions.txt" near line: 194
+[07:27:11][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 221
+" in file: "common/modifiers/00_egypt_missions.txt" near line: 221
+[07:27:11][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 232
+" in file: "common/modifiers/00_egypt_missions.txt" near line: 232
+[07:27:11][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: state_fort_limit, near line: 14
+" in file: "common/modifiers/00_from_events_state.txt" near line: 14
+[07:27:11][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 1204
+" in file: "common/modifiers/00_from_missions.txt" near line: 1204
+[07:27:11][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 1210
+" in file: "common/modifiers/00_from_missions.txt" near line: 1210
+[07:27:11][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 1366
+" in file: "common/modifiers/00_from_missions.txt" near line: 1366
+[07:27:11][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 1603
+" in file: "common/modifiers/00_from_missions.txt" near line: 1603
+[07:27:11][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 1620
+" in file: "common/modifiers/00_from_missions.txt" near line: 1620
+[07:27:11][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 1825
+" in file: "common/modifiers/00_from_missions.txt" near line: 1825
+[07:27:11][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: available_holdings, near line: 425
+" in file: "common/modifiers/00_hardcoded.txt" near line: 425
+[07:27:11][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: holdings_possible_for_character, near line: 564
+" in file: "common/modifiers/00_hardcoded.txt" near line: 564
+[07:27:13][modifier.h:1251]: Missing Icon for Modifier : 
+[07:27:13][modifier.h:1251]: Missing Icon for Modifier : 
+[07:27:13][modifier.h:1251]: Missing Icon for Modifier : 
+[07:27:13][modifier.h:1251]: Missing Icon for Modifier : 
+[07:27:13][modifier.h:1251]: Missing Icon for Modifier : 
+[07:27:13][modifier.h:1251]: Missing Icon for Modifier : 
+[07:27:13][modifier.h:1251]: Missing Icon for Modifier : MODIFIER_STATE_FORT_LIMIT
+[07:27:41][pdx_assert.cpp:612]: Assertion failed: TagID < NDefines::NGame::TAG_LIMIT

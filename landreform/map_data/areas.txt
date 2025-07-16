@@ -1,4 +1,4 @@
-﻿a# Administrative areas.
+﻿# Administrative areas.
 
 roma_area = { #11
     provinces = { 1 2 3 4 5 15 16 19 20 25 26 }
@@ -891,20 +891,20 @@ iazygia_minoris_area = { #12
     provinces = { 4826 4831 4827 4828 4833 4832 4835 4834 4837 4829 4838 4830 }
 }
 
-dacia_mediterranea_area = {
+dacia_mediterranea_area = { #11
     provinces = { 4235 4229 4230 477 4116 4115 4112 4111 4202 4219 4222 }
 }
 
-dacia_superioris_area = {
-    provinces = { 4277 4232 4227 4266 4267 4228 4226 }
+dacia_superioris_area = { #7
+    provinces = { 4232 4227 4228 4226 4231 4233 4234 4238 4237 4236}
 }
 
-dacia_inferioris_area = {
-    provinces = { 4223 4221 4217 4220 4215 4216 4214 4218 4209 4208 4224 4225 4278 4276}
+dacia_inferioris_area = { #12
+    provinces = { 4223 4221 4217 4220 4215 4216 4214 4218 4209 4208 4224 4225 }
 }
 
-malvensis_area = {
-    provinces = { 4279 4211 4268 4270 4271 4269 4274 4272 4273 4275 4283 4210 }
+malvensis_area = { #17
+    provinces = { 4279 4211 4268 4270 4271 4269 4274 4272 4273 4275 4283 4210 4277 4266 4267 4278 4276}
 }
 
 apulensis_area = {
@@ -975,8 +975,8 @@ moesia_orientalis_area = {
     provinces = { 4247 4258 4248 4249 4256 4257 4252 4253 4251 4243 4246 4242 }
 }
 
-moesia_occidentalis_area = {
-    provinces = { 4259 4241 4240 4245 4244 4239 4238 4236 4237 4234 4233 4231 }
+moesia_occidentalis_area = { #remove this province
+    provinces = { 4259 4241 4240 4245 4244 4239 }
 }
 
 #Scythia
