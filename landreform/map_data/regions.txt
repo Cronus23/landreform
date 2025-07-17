@@ -615,25 +615,24 @@ thrace_region = { #8 areas
 		thracia_area
 		europa_area
 		rhodope_area
-		haemimontus_area
-		moesia_orientalis_area
+		haemimontus_area		
+	}
+}
+
+moesia_region = { #8
+	areas = {
+		dacia_mediterranea_area
+		moesia_prima_orientalis_area
+		moesia_prima_occidentalis_area		
+		dacia_inferioris_area  
+		dacia_superioris_area
 		moesia_occidentalis_area
+		moesia_orientalis_area
 		scythia_area
 	}
 }
 
-moesia_region = { #6
-	areas = {
-		dacia_mediterranea_area
-		moesia_prima_orientalis_area
-		moesia_prima_occidentalis_area
-		getia_orientalis_area
-		dacia_inferioris_area  
-		dacia_superioris_area
-	}
-}
-
-dacia_region = {				#9 areas
+dacia_region = {				#10 areas
 	areas = {
 		apulensis_area
 		porolissensis_area
@@ -644,6 +643,7 @@ dacia_region = {				#9 areas
 		transcarpathia_centralis_area
 		getia_occidentalis_area 
 		malvensis_area 
+		getia_orientalis_area
 	}
 }
 
