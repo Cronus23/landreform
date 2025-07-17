@@ -1,6 +1,5 @@
 ﻿central_italy_region = {		#9 areas
 	areas = {
-		
 		south_etruria_area
 		north_etruria_area
 		aternum_area
@@ -13,16 +12,16 @@
 spqr_region = { #1
 	areas = {
 		roma_area
-	} 
+	}
 	
 }
 
-corsica_sardinia_region = { #1
+corsica_sardinia_region = { #3
 	areas = {
 		corsica_area
 		sardinia_septentrionalis
 		sardinia_meridionalis
-	} 
+	}
 	
 }
 
@@ -616,27 +615,24 @@ thrace_region = { #8 areas
 		thracia_area
 		europa_area
 		rhodope_area
-		haemimontus_area
-		moesia_orientalis_area
-		moesia_occidentalis_area
-		scythia_area
+		haemimontus_area		
 	}
 }
 
 moesia_region = { #8
 	areas = {
-		getia_occidentalis_area
-		getia_orientalis_area
-		malvensis_area
-		dacia_inferioris_area
-		dacia_superioris_area
 		dacia_mediterranea_area
 		moesia_prima_orientalis_area
-		moesia_prima_occidentalis_area
+		moesia_prima_occidentalis_area		
+		dacia_inferioris_area  
+		dacia_superioris_area
+		moesia_occidentalis_area
+		moesia_orientalis_area
+		scythia_area
 	}
 }
 
-dacia_region = {				#7 areas
+dacia_region = {				#10 areas
 	areas = {
 		apulensis_area
 		porolissensis_area
@@ -645,6 +641,9 @@ dacia_region = {				#7 areas
 		iazygia_minoris_area
 		iazygia_majoris_area
 		transcarpathia_centralis_area
+		getia_occidentalis_area 
+		malvensis_area 
+		getia_orientalis_area
 	}
 }
 
@@ -719,7 +718,6 @@ magna_graecia_region = {		#5 areas
 		tarentum_area
 		heraclea_area
 		croton_area
-
 	}
 }
 
