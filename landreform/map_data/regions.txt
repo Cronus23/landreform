@@ -597,18 +597,18 @@ lower_egypt_region = {		#7 areas
 	}
 }
 
-pannonia_region = {		#9 areas
-	areas = {
-		pannonia_prima_occidentalis_area	
-		pannonia_prima_orientalis_area
-		pannonia_valeria_area
-		carnuntia_area
-		pannonia_terminus_area
-		noricum_mediterranum_area
-		transcarpathia_occidentalis_area
-		pannonia_secunda_area
-	}
-}
+#pannonia_region = {		#9 areas
+#	areas = {
+#		pannonia_prima_occidentalis_area	
+#		pannonia_prima_orientalis_area
+#		pannonia_valeria_area
+#		carnuntia_area
+#		pannonia_terminus_area
+#		noricum_mediterranum_area
+#		transcarpathia_occidentalis_area
+#		pannonia_secunda_area
+#	}
+#}
 
 thrace_region = { #8 areas
 	areas = {
@@ -707,6 +707,14 @@ illyria_region = {			#7 regions
 		illyria_graeca_area
 		savia_occidentalis_area
 		savia_orientalis_area
+		pannonia_prima_occidentalis_area
+		pannonia_prima_orientalis_area
+		pannonia_valeria_area
+		carnuntia_area
+		pannonia_terminus_area
+		noricum_mediterranum_area
+		transcarpathia_occidentalis_area
+		pannonia_secunda_area
 	}
 }
 	
