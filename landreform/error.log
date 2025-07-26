@@ -1,104 +1,48 @@
-[23:25:05][dlc.cpp:336]: Invalid supported_version in  file: mod/ugc_2397963108.mod line: 6
-[23:25:05][dlc.cpp:336]: Invalid supported_version in  file: mod/ugc_2532715348.mod line: 10
-[23:25:14][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 85
+[20:15:08][dlc.cpp:336]: Invalid supported_version in  file: mod/ugc_2397963108.mod line: 6
+[20:15:08][dlc.cpp:336]: Invalid supported_version in  file: mod/ugc_2532715348.mod line: 10
+[20:15:17][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 85
 " in file: "common/modifiers/00_egypt_missions.txt" near line: 85
-[23:25:14][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 93
+[20:15:17][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 93
 " in file: "common/modifiers/00_egypt_missions.txt" near line: 93
-[23:25:14][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 108
+[20:15:17][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 108
 " in file: "common/modifiers/00_egypt_missions.txt" near line: 108
-[23:25:14][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 113
+[20:15:17][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 113
 " in file: "common/modifiers/00_egypt_missions.txt" near line: 113
-[23:25:14][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 134
+[20:15:17][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 134
 " in file: "common/modifiers/00_egypt_missions.txt" near line: 134
-[23:25:14][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 138
+[20:15:17][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 138
 " in file: "common/modifiers/00_egypt_missions.txt" near line: 138
-[23:25:14][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 182
+[20:15:17][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 182
 " in file: "common/modifiers/00_egypt_missions.txt" near line: 182
-[23:25:14][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 194
+[20:15:17][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 194
 " in file: "common/modifiers/00_egypt_missions.txt" near line: 194
-[23:25:14][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 221
+[20:15:17][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 221
 " in file: "common/modifiers/00_egypt_missions.txt" near line: 221
-[23:25:14][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 232
+[20:15:17][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 232
 " in file: "common/modifiers/00_egypt_missions.txt" near line: 232
-[23:25:14][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: state_fort_limit, near line: 14
+[20:15:17][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: state_fort_limit, near line: 14
 " in file: "common/modifiers/00_from_events_state.txt" near line: 14
-[23:25:14][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 1204
+[20:15:17][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 1204
 " in file: "common/modifiers/00_from_missions.txt" near line: 1204
-[23:25:14][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 1210
+[20:15:17][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 1210
 " in file: "common/modifiers/00_from_missions.txt" near line: 1210
-[23:25:14][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 1366
+[20:15:17][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 1366
 " in file: "common/modifiers/00_from_missions.txt" near line: 1366
-[23:25:14][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 1603
+[20:15:17][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 1603
 " in file: "common/modifiers/00_from_missions.txt" near line: 1603
-[23:25:14][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 1620
+[20:15:17][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 1620
 " in file: "common/modifiers/00_from_missions.txt" near line: 1620
-[23:25:14][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 1825
+[20:15:17][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: local_commerce_value_modifier, near line: 1825
 " in file: "common/modifiers/00_from_missions.txt" near line: 1825
-[23:25:14][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: available_holdings, near line: 425
+[20:15:17][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: available_holdings, near line: 425
 " in file: "common/modifiers/00_hardcoded.txt" near line: 425
-[23:25:14][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: holdings_possible_for_character, near line: 564
+[20:15:17][pdx_persistent_reader.cpp:229]: Error: "Unexpected token: holdings_possible_for_character, near line: 564
 " in file: "common/modifiers/00_hardcoded.txt" near line: 564
-[23:25:15][modifier.h:1251]: Missing Icon for Modifier : 
-[23:25:15][modifier.h:1251]: Missing Icon for Modifier : 
-[23:25:15][modifier.h:1251]: Missing Icon for Modifier : 
-[23:25:15][modifier.h:1251]: Missing Icon for Modifier : 
-[23:25:15][modifier.h:1251]: Missing Icon for Modifier : 
-[23:25:15][modifier.h:1251]: Missing Icon for Modifier : 
-[23:25:15][modifier.h:1251]: Missing Icon for Modifier : MODIFIER_STATE_FORT_LIMIT
-[23:25:49][pdx_assert.cpp:612]: Assertion failed: TagID < NDefines::NGame::TAG_LIMIT
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/console.gui:153 - Widget (id '14214') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/console.gui:158 - Widget (id '14217') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/console.gui:167 - Widget (id '14224') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/console.gui:59 - Widget (id '14154') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/console.gui:22 - Widget (id '14128') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/console.gui:127 - Widget (id '14199') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/console.gui:146 - Widget (id '14208') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/gui_editor/gui_editor.gui:18 - Widget (id '54888') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/gui_editor/gui_editor.gui:18 - Widget (id '54888') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/gui_editor/gui_editor.gui:18 - Widget (id '54888') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/gui_editor/gui_editor.gui:18 - Widget (id '54888') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/toolstypes.gui:3 - Widget (id '48471') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/toolstypes.gui:3 - Widget (id '48471') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/toolstypes.gui:3 - Widget (id '48471') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/toolstypes.gui:3 - Widget (id '48471') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/console.gui:17 - Widget (id '14124') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/console.gui:176 - Widget (id '14231') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/gui_editor/gui_editor.gui:29 - Widget (id '54895') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/gui_editor/gui_editor.gui:29 - Widget (id '54895') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/gui_editor/gui_editor.gui:29 - Widget (id '54895') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/gui_editor/gui_editor.gui:29 - Widget (id '54895') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/toolstypes.gui:27 - Widget (id '48487') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/toolstypes.gui:27 - Widget (id '48487') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/toolstypes.gui:27 - Widget (id '48487') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/toolstypes.gui:27 - Widget (id '48487') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/console.gui:48 - Widget (id '14145') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/toolstypes.gui:18 - Widget (id '48481') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/toolstypes.gui:18 - Widget (id '48481') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/toolstypes.gui:18 - Widget (id '48481') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/toolstypes.gui:18 - Widget (id '48481') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/defaults.gui:82 - Widget (id '15960') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/defaults.gui:82 - Widget (id '15960') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/defaults.gui:82 - Widget (id '15960') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/defaults.gui:82 - Widget (id '15960') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/defaults.gui:82 - Widget (id '15960') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/defaults.gui:82 - Widget (id '15960') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/defaults.gui:82 - Widget (id '15960') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/defaults.gui:82 - Widget (id '15960') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/defaults.gui:82 - Widget (id '15960') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/defaults.gui:82 - Widget (id '15960') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/defaults.gui:82 - Widget (id '15960') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/defaults.gui:82 - Widget (id '15960') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/defaults.gui:82 - Widget (id '15960') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/defaults.gui:82 - Widget (id '15960') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/defaults.gui:82 - Widget (id '15960') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/defaults.gui:82 - Widget (id '15960') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/defaults.gui:82 - Widget (id '15960') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/defaults.gui:82 - Widget (id '15960') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/defaults.gui:82 - Widget (id '15960') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/defaults.gui:82 - Widget (id '15960') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/console.gui:55 - Widget (id '14151') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/console.gui:185 - Widget (id '14238') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/console.gui:109 - Widget (id '14188') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/console.gui:70 - Widget (id '14162') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/console.gui:98 - Widget (id '14180') has not been destroyed
-[23:53:53][/mnt/gsg/imperator-rome/sulla/clausewitz/clausewitz/pdx_guieditor/gui_editor.cpp:695]: gui/console.gui:33 - Widget (id '14137') has not been destroyed
+[20:15:18][modifier.h:1251]: Missing Icon for Modifier : 
+[20:15:18][modifier.h:1251]: Missing Icon for Modifier : 
+[20:15:18][modifier.h:1251]: Missing Icon for Modifier : 
+[20:15:18][modifier.h:1251]: Missing Icon for Modifier : 
+[20:15:18][modifier.h:1251]: Missing Icon for Modifier : 
+[20:15:18][modifier.h:1251]: Missing Icon for Modifier : 
+[20:15:18][modifier.h:1251]: Missing Icon for Modifier : MODIFIER_STATE_FORT_LIMIT
+[20:15:44][pdx_assert.cpp:612]: Assertion failed: TagID < NDefines::NGame::TAG_LIMIT

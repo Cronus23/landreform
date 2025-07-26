@@ -92,10 +92,15 @@ cilicia_region = {	#Lycia, Pamphylia, Cilicia	#7 areas
 		cilicia_trachea_area
 		cilicia_pedias_area
 		lycia_area
-		cyprus_area
 		pamphylia_area
 		pisidia_area
 		milyas_area
+	}
+}
+
+cyprus_region = {
+	areas = {
+		cyprus_area
 	}
 }
 
@@ -132,13 +137,18 @@ cappadocia_region = { #5
 	}
 }
 
-cappadocia_pontica_region = { #5
+cappadocia_pontica_region = { #3
 	areas = {
 		pontus_colopene_area
-		armenia_minor_area
-		armenia_maior_area
 		pontus_area
 		machelonia_area
+	}
+}
+
+armenia_minor_region = {
+	areas = {
+		armenia_minor_area
+		armenia_maior_area
 	}
 }
 
