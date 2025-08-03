@@ -1,11 +1,23 @@
-﻿central_italy_region = {		#9 areas
+﻿central_italy_region = {		#13 areas
 	areas = {
 		south_etruria_area
 		north_etruria_area
 		aternum_area
 		ariminum_area
 		asculum_area
-		
+		venetia_area
+		east_insubria_area
+		pisae_area
+		liguria_area
+		aemilla_area
+		transpadana_area
+		west_insubria_area
+		ferraria_area
+		neapolis_area
+		cannae_area
+		tarentum_area
+		heraclea_area
+		croton_area
 	}
 }
 
@@ -56,7 +68,7 @@ greece_region = {	#10 areas
 		
 		aegean_islands_area
 		achaea_area
-		epirus_area
+		#epirus_area
 		aetolia_area
 		central_greece_area
 		south_peleponnesos_area
@@ -606,19 +618,18 @@ lower_egypt_region = {		#7 areas
 		parva_area
 	}
 }
-
-#pannonia_region = {		#9 areas
-#	areas = {
-#		pannonia_prima_occidentalis_area	
-#		pannonia_prima_orientalis_area
-#		pannonia_valeria_area
-#		carnuntia_area
-#		pannonia_terminus_area
+pannonia_region = {		#9 areas, 7
+	areas = {
+		pannonia_prima_occidentalis_area	
+		pannonia_prima_orientalis_area
+		pannonia_valeria_area
+		carnuntia_area
+		pannonia_terminus_area
 #		noricum_mediterranum_area
-#		transcarpathia_occidentalis_area
-#		pannonia_secunda_area
-#	}
-#}
+		transcarpathia_occidentalis_area
+		pannonia_secunda_area
+	}
+}
 
 thrace_region = { #8 areas
 	areas = {
@@ -631,7 +642,7 @@ thrace_region = { #8 areas
 
 moesia_region = { #8
 	areas = {
-		dacia_mediterranea_area
+		
 		moesia_prima_orientalis_area
 		moesia_prima_occidentalis_area		
 		dacia_inferioris_area  
@@ -639,6 +650,7 @@ moesia_region = { #8
 		moesia_occidentalis_area
 		moesia_orientalis_area
 		scythia_area
+		
 	}
 }
 
@@ -708,7 +720,7 @@ bohemia_area = {					#8 areas
 	}
 }
 
-illyria_region = {			#7 regions
+illyria_region = {			#15 regions, 8
 	areas = {
 		histria_area
 		dalmatia_occidentalis_area
@@ -717,27 +729,21 @@ illyria_region = {			#7 regions
 		illyria_graeca_area
 		savia_occidentalis_area
 		savia_orientalis_area
-		pannonia_prima_occidentalis_area
-		pannonia_prima_orientalis_area
-		pannonia_valeria_area
-		carnuntia_area
-		pannonia_terminus_area
+		
 		noricum_mediterranum_area
-		transcarpathia_occidentalis_area
-		pannonia_secunda_area
+	}
+}
+
+dardania_region = { 
+	areas = {
+		dardania_inferioris_area
+		dardania_superioris_area
+		dacia_mediterranea_area
 	}
 }
 	
 
-magna_graecia_region = {		#5 areas
-	areas = {
-		neapolis_area
-		cannae_area
-		tarentum_area
-		heraclea_area
-		croton_area
-	}
-}
+
 
 sicily_region = { 	#3 areas
 	areas = {	
@@ -794,9 +800,9 @@ macedonia_region = { #7 areas
 		upper_macedonia_area
 		chalkidiki_area
 		macedonia_salutaris_area
-		dardania_inferioris_area
-		dardania_superioris_area
+		
 		thessaly_area
+		epirus_area
 	}
 }
 
@@ -907,18 +913,18 @@ britain_region = {			#10 areas
 	}
 }
 
-cisalpine_gaul_region = {	#8 areas
-	areas = {
-		venetia_area
-		east_insubria_area
-		pisae_area
-		liguria_area
-		aemilla_area
-		transpadana_area
-		west_insubria_area
-		ferraria_area
-	}
-}
+#cisalpine_gaul_region = {	#8 areas
+#	areas = {
+#		venetia_area
+#		east_insubria_area
+#		pisae_area
+#		liguria_area
+#		aemilla_area
+#		transpadana_area
+#		west_insubria_area
+#		ferraria_area
+#	}
+#}
 
 africa_region = {		#7 areas
 	areas = {
